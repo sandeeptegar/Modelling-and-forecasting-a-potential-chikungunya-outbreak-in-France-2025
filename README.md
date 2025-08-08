@@ -24,9 +24,7 @@ This script reproduces the population dynamics of adult female *Aedes albopictus
 ### Required Data:  
 - Data files: `AMgam.csv`, `Car_Tol_1.csv`, `Fin_LSurv.csv`, `LDgam.csv`, `WL_re.csv`  
 - Climate file: `latitude_longitude.csv`  
-  (For Bernis: latitude = 43.77, longitude = 4.29), 
-- Reported cases: `fano_data.csv`
-- Source: [Sacco et al. (2024)](https://doi.org/10.2807/1560-7917.ES.2024.29.47.2400713)  
+  (For Bernis: latitude = 43.77, longitude = 4.29) 
 
 ---
 

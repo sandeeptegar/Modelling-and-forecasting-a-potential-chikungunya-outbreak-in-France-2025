@@ -36,7 +36,8 @@ This script reproduces the population dynamics of adult female *Aedes albopictus
 This script calculates the ten climate scenarios based on the historic climate for 2015–2024.  
 
 ### Required Data:  
-- Climate file: `Bernis_climate_1979_2025.csv` (Observed climate data for Bernis up to the latest date)  
+- Climate file: `Bernis_climate_1979_2025.csv` (Observed climate data for Bernis up to the latest date)
+- Source: [ERA5-Land hourly data from 1950 to present](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land?tab=overview)     
 
 ---
 
